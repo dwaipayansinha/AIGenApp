@@ -4,4 +4,5 @@ Two frontends written in Dev0:
 Backend written in Python using OpenAI and Copilot
 
 Both front ends can be ran using "npm run dev" from the folder.
+
 For the backend, use "uvicorn main:app --host 0.0.0.0 --port 8000 --reload"
